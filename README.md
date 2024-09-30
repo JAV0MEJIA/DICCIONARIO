@@ -26,6 +26,6 @@ if "telefono" not in informacion_personal:
 # Elimino la clave "edad" del diccionario
 del informacion_personal["edad"]
 
-# ImprimogGGGGG el diccionario resultante
+# ImprimogG el diccionario resultante
 print("\nDiccionario resultante:")
 print(informacion_personal)
